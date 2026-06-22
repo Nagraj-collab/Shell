@@ -1,4 +1,1 @@
-# Shell
-Schell Scripts
-
-updating readme
+SHELL dfsdsfd fdsfds f
